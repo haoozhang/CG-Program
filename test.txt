@@ -1,0 +1,13 @@
+point -359 167 5 (1,0,0)
+line -66 200 -31 224 5 (0,1,0)
+polygon 0 100 0 200 100 200 100 100 5 (0,0,1)
+ellipse -122 58 100 50 5 (1,0,1)
+circle 162 -36 75 5 (0.5,0.5,1)
+
+point 横坐标 纵坐标 lineWidth lineColor 
+line begin的横坐标 begin的纵坐标 end的横坐标 lineWidth lineColor
+polygon 顶点横坐标 顶点纵坐标（个数不定） lineWidth lineColor filled fillColor
+circle 圆心横坐标 圆心纵坐标 半径  lineWidth lineColor filled fillColor
+elipse 中心横坐标 中心纵坐标 a b  lineWidth lineColor filled fillColor
+curve 四个控制顶点的坐标   lineWidth lineColor
+teapot size 偏转X 偏转Y 偏转Z lineWidth lineColor
