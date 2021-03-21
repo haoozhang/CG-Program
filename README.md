@@ -1,2 +1,2 @@
 # CG-Program
-利用OpenGL基本操作实现一个图形处理系统，包括绘制基本图形、平移、旋转、缩放、填充、裁剪等功能。
+Implementation of a basic graphics processing system with OpenGL, including drawing basic graphics, translation, rotation, scaling, filling, cropping and other functions.
